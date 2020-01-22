@@ -53,5 +53,5 @@ a:hover, .submitButton:hover {
 
 body {
     background-color: #c0c0c0;
-    overflow: none;
+    overflow: hidden;
 }
