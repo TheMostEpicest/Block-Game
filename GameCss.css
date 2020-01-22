@@ -5,6 +5,10 @@ td.cell {
     background-color: #ffffff;
 }
 
+.header {
+    display: inline-block;
+}
+
 .redscore {
     font-size: 60px;
     color: #ff0000;
