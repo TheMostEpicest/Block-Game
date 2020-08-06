@@ -42,7 +42,7 @@ function updatePosition() {
     updatePosArray();
     checkPoint();
     if (scoreBlu >= winScore && winnerBlock === 0) {
-        document.getElementById("winner").innerHTML = "Blu Wins";
+        document.getElementById("winner").innerHTML = "Blue Wins";
         document.getElementById("winner").style.color = "#0000ff";
         winnerBlock = 1;
     }
